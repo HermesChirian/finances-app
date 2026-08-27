@@ -26,6 +26,10 @@ fuentes/
 prompts/
 docs/
 
+# Recursos (mockup en planilla)
+.context/finanzas.xlsx
+.context/finazas.xlsx
+
 # FastAPI
 .idea
 .ipynb_checkpoints
