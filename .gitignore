@@ -30,6 +30,9 @@ docs/
 .context/finanzas.xlsx
 .context/finazas.xlsx
 
+# Journals de sesión (solo local)
+.context/journals/
+
 # FastAPI
 .idea
 .ipynb_checkpoints
